@@ -25,6 +25,7 @@
     - <b>Pilihan Daftar:</b> Anime dikurasi berdasarkan Terbaru, Peringkat Teratas, dan Terpopuler.
 </p>
 
+![1763634224905](https://github.com/user-attachments/assets/a494611e-dab5-442b-9b57-464782113135)
 
 
 <h3>🔎 Pencarian</h3>
@@ -33,6 +34,7 @@
     - <b>Filter Canggih:</b> Pilihan filter yang mudah dipilih (Genre, Tahun, Musim, Format).
 </p>
 
+![Screenshot_20251120-172802](https://github.com/user-attachments/assets/fae437ca-2d24-4d8b-b0dc-15c0cd42b78f)
 
 
 <h3>🔥 Trending</h3>
@@ -54,6 +56,9 @@
     - <b>Dukungan Penuh:</b> Pilihan Penyedia <i>streaming</i> dan Subtitle yang beragam, serta navigasi episode yang mulus.
 </p>
 
+![Screenshot_20251120-173125](https://github.com/user-attachments/assets/1c8937d0-ae45-4232-80ba-b0eea5c8904c)
+
+![1763634815715](https://github.com/user-attachments/assets/174bb156-0180-4d48-831e-6ef78a2be909)
 
 
 
@@ -74,6 +79,9 @@
     <li><b>Postingan Anime:</b> Administrator dapat menambahkan entri anime baru dan memperbarui detail episode melalui antarmuka ini.</li>
     <li><b>Basis Data Utama:</b> Menggunakan <b>MySQL</b> (dikelola via phpMyAdmin) sebagai basis data utama.</li>
 </ul>
+
+<img width="920" height="418" alt="image" src="https://github.com/user-attachments/assets/4fabcb12-4630-448c-9348-d05c863ba622" />
+
 
 <hr>
 
