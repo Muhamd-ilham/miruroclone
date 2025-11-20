@@ -85,7 +85,7 @@
 <ul>
     <li><b>Framework:</b> <b>Laravel (PHP)</b> - Digunakan untuk seluruh logika bisnis, routing, dan lapisan data.</li>
     <li><b>Basis Data:</b> <b>MySQL</b> (dikelola melalui phpMyAdmin).</li>
-    <li><b>API Integrasi:</b> Mengambil data metadata anime dari <b>Anilist API</b>.</li>
+    <li><b>API Integrasi:</b> Mengambil data metadata anime dari <b>Myanimelist API</b> dan <b>TMDB API.</li>
 </ul>
 
 <h3>🌐 Frontend (The Interface)</h3>
