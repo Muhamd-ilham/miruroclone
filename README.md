@@ -4,7 +4,7 @@
   Proyek ini adalah aplikasi web (WebApp) dinamis yang memungkinkan pengguna untuk menonton anime favorit mereka. Dibangun menggunakan framework PHP terkemuka, <b>Laravel</b>.
 </p>
 
-<h1 align="center">Powered by Laravel, Anilist API, dan Penyedia Streaming Terkemuka</h1>
+<h1 align="center">Powered by Laravel, MyAnimelist API & TMDB API, dan Penyedia Streaming Terkemuka</h1>
 
 <hr>
 
